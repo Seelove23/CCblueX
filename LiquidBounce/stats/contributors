@@ -1,0 +1,516 @@
+[
+  {
+    "total": 1,
+    "weeks": [
+      {
+        "w": 1577577600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1578182400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1578787200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1579392000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1579996800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1580601600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1581206400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1581811200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1582416000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1583020800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1583625600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1584230400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1584835200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1585440000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1586044800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1586649600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1587254400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1587859200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1588464000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1589068800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1589673600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1590278400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1590883200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1591488000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1592092800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1592697600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1593302400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1593907200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1594512000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1595116800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1595721600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1596326400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1596931200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1597536000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1598140800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1598745600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1599350400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1599955200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1600560000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1601164800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1601769600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1602374400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1602979200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1603584000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1604188800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1604793600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1605398400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1606003200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1606608000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1607212800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1607817600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1608422400,
+        "a": 1,
+        "d": 1,
+        "c": 1
+      },
+      {
+        "w": 1609027200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1609632000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1610236800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1610841600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1611446400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1612051200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1612656000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1613260800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1613865600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1614470400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1615075200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1615680000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1616284800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1616889600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1617494400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1618099200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1618704000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1619308800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1619913600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1620518400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1621123200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1621728000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1622332800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1622937600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1623542400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1624147200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "Cracker228",
+      "id": 66326309,
+      "node_id": "MDQ6VXNlcjY2MzI2MzA5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66326309?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TheBlocky",
+      "html_url": "https://github.com/TheBlocky",
+      "followers_url": "https://api.github.com/users/TheBlocky/followers",
+      "following_url": "https://api.github.com/users/TheBlocky/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TheBlocky/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TheBlocky/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TheBlocky/subscriptions",
+      "organizations_url": "https://api.github.com/users/TheBlocky/orgs",
+      "repos_url": "https://api.github.com/users/TheBlocky/repos",
+      "events_url": "https://api.github.com/users/TheBlocky/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TheBlocky/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+    "author": {
+      "login": "derech1e",
+      "id": 39240736,
+      "node_id": "MDQ6VXNlcjM5MjQwNzM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39240736?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/derech1e",
+      "html_url": "https://github.com/derech1e",
+      "followers_url": "https://api.github.com/users/derech1e/followers",
+      "following_url": "https://api.github.com/users/derech1e/following{/other_user}",
+      "gists_url": "https://api.github.com/users/derech1e/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/derech1e/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/derech1e/subscriptions",
+      "organizations_url": "https://api.github.com/users/derech1e/orgs",
+      "repos_url": "https://api.github.com/users/derech1e/repos",
+      "events_url": "https://api.github.com/users/derech1e/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/derech1e/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]
